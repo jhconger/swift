@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  Shared
+//  RandomPhoto
 //
 //  Created by justin conger on 9/6/22.
 //
@@ -9,7 +9,7 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, world! first app")
+        Text("Hello, this is my new app!")
             .padding()
     }
 }
